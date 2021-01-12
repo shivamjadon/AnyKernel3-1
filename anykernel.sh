@@ -4,16 +4,16 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=DronaKernel by Dronacharya
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=maguro
-device.name2=toro
-device.name3=toroplus
-device.name4=tuna
+device.name1=phoenix
+device.name2=phoenixin
+device.name3=pocox2
+device.name4=redmik30
 device.name5=
 supported.versions=
 supported.patchlevels=
